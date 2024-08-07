@@ -151,3 +151,8 @@ header h1 {
     display: flex;
     overflow-x: auto;
 }
+.partner-logo img {
+  width: 100px; /* adjust the width to your desired size */
+  height: auto;
+  margin: 10px;
+}
